@@ -1,0 +1,44 @@
+body{
+    background-color: azure;
+    color: rgb(203,82,74);
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: .5px;
+}
+a:hover{
+    color: rgb(141,163,107);
+    border-radius: 5px;
+}
+
+a{
+   
+    color: rgb(203,82,74);
+    text-decoration: none;
+}
+
+nav{
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+img{
+    width: 20px;
+    rotate: 24deg;
+}
+h1{
+    
+    font-size: 2.5em;
+    text-align: center;
+    color: rgb(203,82,74);
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: .5px;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    font-size: 1.5em;
+    color: rgb(203,82,74);
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: .5px;
+}
