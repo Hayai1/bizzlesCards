@@ -1,0 +1,42 @@
+/* Style for the navigation bar */
+  body{
+    background-color: #e0f0e3;
+  }
+  .navbar {
+    background-color: #ffeaea;
+    overflow: hidden;
+    top: 0;
+    width: 100%;
+    left: 0;
+  }
+  /* Style for the title in the navigation bar */
+  .navbar h1 {
+    font-size: 5em;
+    text-align: center;
+    letter-spacing: .5px;
+    background-color: #ffeaea;
+    margin: 0;
+    padding: 10px;
+    font-family: 'Jelmiroz', sans-serif; 
+    color: rgb(203,82,74);
+    
+  }
+  /* Style for the buttons in the navigation bar */
+  .navbar a {
+    float: left;
+    margin-right: 10px;
+    padding: 10px;
+    color: rgb(203,82,74);
+    background-color: #ffd8d8;
+    border: none;
+    cursor: pointer;
+    font-size: 1.7em;
+    font-family: 'g Gerak', sans-serif;
+  }
+  p{
+    font-size: 1.5em;
+    font-family: 'g Gerak', sans-serif;
+    font-size: 2.5em;
+    color: rgb(203,82,74);
+    text-align: center;
+  }
